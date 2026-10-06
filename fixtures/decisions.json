@@ -1,0 +1,42 @@
+{
+  "Miro": {
+    "verdict": "cancel",
+    "reason": "The owner, Dana Whitfield, left the company in June and 1 of 12 seats is in use; the last board edited was for the Q1 offsite.",
+    "ask": "Finance: nobody owns Miro since Dana left. Can we cancel it before the Oct 8 charge, or does anyone need the offsite boards exported first?"
+  },
+  "Slack Technologies, LLC": {
+    "verdict": "keep",
+    "reason": "40 of 42 seats are in use, the price is flat on a year ago, and the whole company runs on it daily.",
+    "ask": null
+  },
+  "Loom, Inc.": {
+    "verdict": "review",
+    "reason": "Loom has billed $150 a month since December 2025 and has no row in the tool inventory, so nobody on file owns it or knows how many seats it covers.",
+    "ask": "Finance: who signed up for Loom in December, and does the team still use it? Add it to the inventory or cancel before Oct 20."
+  },
+  "Salesforce, Inc.": {
+    "verdict": "review",
+    "reason": "All 12 seats are in use and the price rose 7.1%, which on its own is a keep, but the 60-day notice deadline is Oct 20 and any seat or term change after that waits a full year.",
+    "ask": "Dev: are 12 Salesforce seats still right for next year? Any change has to be in writing by Oct 20."
+  },
+  "Figma, Inc.": {
+    "verdict": "review",
+    "reason": "Only 8 of 20 seats are active and the annual price went up 25% last year; the notes say engineers mostly use view links now.",
+    "ask": "Lena: can we drop Figma to 10 editor seats before the Oct 26 renewal?"
+  },
+  "Datadog, Inc.": {
+    "verdict": "review",
+    "reason": "The monthly bill is up 61.1% on a year ago ($2,110 to $3,400) since log ingestion grew after the July launch, and retention is still on the 30-day default.",
+    "ask": "Priya: is the extra log ingestion worth $15,500 a year, or can we cut what we index before the Nov 1 bill?"
+  },
+  "Amazon Web Services": {
+    "verdict": "keep",
+    "reason": "Production infrastructure, and the bill moved 6.9% on a year ago, under the 20% line the policy uses for a review.",
+    "ask": null
+  },
+  "Zoom Video Communications, Inc.": {
+    "verdict": "cancel",
+    "reason": "The company moved to Google Meet in May and 2 of 15 seats are active, for two external webinars since. That is occasional use on a $3,840 a year plan.",
+    "ask": "Marcus: can the two webinar hosts move to Meet or a single seat, so we cancel the 15-seat Zoom plan before Nov 3?"
+  }
+}

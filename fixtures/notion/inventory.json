@@ -1,0 +1,612 @@
+[
+  {
+    "object": "page",
+    "id": "inv-slack",
+    "url": "https://www.notion.so/northwind/Slack-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Slack",
+            "text": {
+              "content": "Slack"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Marcus Chen (Operations)",
+            "text": {
+              "content": "Marcus Chen (Operations)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": 42
+      },
+      "Seats active": {
+        "type": "number",
+        "number": 40
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Company-wide chat. Every team uses it daily.",
+            "text": {
+              "content": "Company-wide chat. Every team uses it daily."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-zoom",
+    "url": "https://www.notion.so/northwind/Zoom-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Zoom",
+            "text": {
+              "content": "Zoom"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Marcus Chen (Operations)",
+            "text": {
+              "content": "Marcus Chen (Operations)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": 15
+      },
+      "Seats active": {
+        "type": "number",
+        "number": 2
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Company moved to Google Meet in May 2026. Kept for external webinars; two hosted since.",
+            "text": {
+              "content": "Company moved to Google Meet in May 2026. Kept for external webinars; two hosted since."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-datadog",
+    "url": "https://www.notion.so/northwind/Datadog-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Datadog",
+            "text": {
+              "content": "Datadog"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Priya Nair (Platform)",
+            "text": {
+              "content": "Priya Nair (Platform)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": null
+      },
+      "Seats active": {
+        "type": "number",
+        "number": null
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Usage-billed. Log ingestion grew after the July launch; retention is still the 30-day default.",
+            "text": {
+              "content": "Usage-billed. Log ingestion grew after the July launch; retention is still the 30-day default."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-figma",
+    "url": "https://www.notion.so/northwind/Figma-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Figma",
+            "text": {
+              "content": "Figma"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Lena Ortiz (Design)",
+            "text": {
+              "content": "Lena Ortiz (Design)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": 20
+      },
+      "Seats active": {
+        "type": "number",
+        "number": 8
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Seats bought for the whole product team in 2024. Engineers mostly use view links now.",
+            "text": {
+              "content": "Seats bought for the whole product team in 2024. Engineers mostly use view links now."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-salesforce",
+    "url": "https://www.notion.so/northwind/Salesforce-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Salesforce",
+            "text": {
+              "content": "Salesforce"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Dev Patel (Sales ops)",
+            "text": {
+              "content": "Dev Patel (Sales ops)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": 12
+      },
+      "Seats active": {
+        "type": "number",
+        "number": 12
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": 60
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "System of record for pipeline. Contract auto-renews; 60 days written notice to change seats or terms.",
+            "text": {
+              "content": "System of record for pipeline. Contract auto-renews; 60 days written notice to change seats or terms."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-miro",
+    "url": "https://www.notion.so/northwind/Miro-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Miro",
+            "text": {
+              "content": "Miro"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Dana Whitfield",
+            "text": {
+              "content": "Dana Whitfield"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": 12
+      },
+      "Seats active": {
+        "type": "number",
+        "number": 1
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Owner left the company in June 2026. Last board edited for the Q1 offsite.",
+            "text": {
+              "content": "Owner left the company in June 2026. Last board edited for the Q1 offsite."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-hotjar",
+    "url": "https://www.notion.so/northwind/Hotjar-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Hotjar",
+            "text": {
+              "content": "Hotjar"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Sofia Reyes (Growth)",
+            "text": {
+              "content": "Sofia Reyes (Growth)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Cancelled"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": null
+      },
+      "Seats active": {
+        "type": "number",
+        "number": null
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Cancelled in July 2026 when session analytics moved to PostHog.",
+            "text": {
+              "content": "Cancelled in July 2026 when session analytics moved to PostHog."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-amazonwebservices",
+    "url": "https://www.notion.so/northwind/AmazonWebServices-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Amazon Web Services",
+            "text": {
+              "content": "Amazon Web Services"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Priya Nair (Platform)",
+            "text": {
+              "content": "Priya Nair (Platform)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": null
+      },
+      "Seats active": {
+        "type": "number",
+        "number": null
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Production infrastructure. Usage-billed; reserved instances renew in March.",
+            "text": {
+              "content": "Production infrastructure. Usage-billed; reserved instances renew in March."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-calendly",
+    "url": "https://www.notion.so/northwind/Calendly-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Calendly",
+            "text": {
+              "content": "Calendly"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Dev Patel (Sales ops)",
+            "text": {
+              "content": "Dev Patel (Sales ops)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Active"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": 8
+      },
+      "Seats active": {
+        "type": "number",
+        "number": 7
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Sales team booking links.",
+            "text": {
+              "content": "Sales team booking links."
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "object": "page",
+    "id": "inv-intercom",
+    "url": "https://www.notion.so/northwind/Intercom-tool",
+    "properties": {
+      "Name": {
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "plain_text": "Intercom",
+            "text": {
+              "content": "Intercom"
+            }
+          }
+        ]
+      },
+      "Owner": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Sofia Reyes (Growth)",
+            "text": {
+              "content": "Sofia Reyes (Growth)"
+            }
+          }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "select": {
+          "name": "Cancelled"
+        }
+      },
+      "Seats purchased": {
+        "type": "number",
+        "number": null
+      },
+      "Seats active": {
+        "type": "number",
+        "number": null
+      },
+      "Notice period (days)": {
+        "type": "number",
+        "number": null
+      },
+      "Notes": {
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "plain_text": "Replaced by the in-app help widget in March 2026.",
+            "text": {
+              "content": "Replaced by the in-app help widget in March 2026."
+            }
+          }
+        ]
+      }
+    }
+  }
+]

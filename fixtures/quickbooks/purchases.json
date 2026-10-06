@@ -1,0 +1,2756 @@
+[
+  {
+    "Id": "100",
+    "TxnDate": "2024-10-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "101",
+    "TxnDate": "2024-11-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "102",
+    "TxnDate": "2024-12-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "103",
+    "TxnDate": "2025-01-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "104",
+    "TxnDate": "2025-02-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "105",
+    "TxnDate": "2025-03-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "106",
+    "TxnDate": "2025-04-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "107",
+    "TxnDate": "2025-05-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "108",
+    "TxnDate": "2025-06-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "109",
+    "TxnDate": "2025-07-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "110",
+    "TxnDate": "2025-08-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "111",
+    "TxnDate": "2025-09-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "112",
+    "TxnDate": "2025-10-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "113",
+    "TxnDate": "2025-11-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "114",
+    "TxnDate": "2025-12-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "115",
+    "TxnDate": "2026-01-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "116",
+    "TxnDate": "2026-02-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "117",
+    "TxnDate": "2026-03-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "118",
+    "TxnDate": "2026-04-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "119",
+    "TxnDate": "2026-05-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "120",
+    "TxnDate": "2026-06-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "121",
+    "TxnDate": "2026-07-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "122",
+    "TxnDate": "2026-08-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "123",
+    "TxnDate": "2026-09-12",
+    "TotalAmt": 1450,
+    "Line": [
+      {
+        "Amount": 1450,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Slack Technologies, LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "124",
+    "TxnDate": "2024-10-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "125",
+    "TxnDate": "2024-11-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "126",
+    "TxnDate": "2024-12-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "127",
+    "TxnDate": "2025-01-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "128",
+    "TxnDate": "2025-02-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "129",
+    "TxnDate": "2025-03-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "130",
+    "TxnDate": "2025-04-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "131",
+    "TxnDate": "2025-05-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "132",
+    "TxnDate": "2025-06-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "133",
+    "TxnDate": "2025-07-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "134",
+    "TxnDate": "2025-08-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "135",
+    "TxnDate": "2025-09-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "136",
+    "TxnDate": "2025-10-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "137",
+    "TxnDate": "2025-11-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "138",
+    "TxnDate": "2025-12-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "139",
+    "TxnDate": "2026-01-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "140",
+    "TxnDate": "2026-02-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "141",
+    "TxnDate": "2026-03-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "142",
+    "TxnDate": "2026-04-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "143",
+    "TxnDate": "2026-05-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "144",
+    "TxnDate": "2026-06-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "145",
+    "TxnDate": "2026-07-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "146",
+    "TxnDate": "2026-08-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "147",
+    "TxnDate": "2026-09-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "148",
+    "TxnDate": "2026-10-03",
+    "TotalAmt": 320,
+    "Line": [
+      {
+        "Amount": 320,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Zoom Video Communications, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "149",
+    "TxnDate": "2025-12-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "150",
+    "TxnDate": "2026-01-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "151",
+    "TxnDate": "2026-02-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "152",
+    "TxnDate": "2026-03-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "153",
+    "TxnDate": "2026-04-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "154",
+    "TxnDate": "2026-05-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "155",
+    "TxnDate": "2026-06-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "156",
+    "TxnDate": "2026-07-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "157",
+    "TxnDate": "2026-08-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "158",
+    "TxnDate": "2026-09-20",
+    "TotalAmt": 150,
+    "Line": [
+      {
+        "Amount": 150,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Loom, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "184",
+    "TxnDate": "2024-10-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "185",
+    "TxnDate": "2024-11-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "186",
+    "TxnDate": "2024-12-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "187",
+    "TxnDate": "2025-01-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "188",
+    "TxnDate": "2025-02-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "189",
+    "TxnDate": "2025-03-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "190",
+    "TxnDate": "2025-04-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "191",
+    "TxnDate": "2025-05-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "192",
+    "TxnDate": "2025-06-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "193",
+    "TxnDate": "2025-07-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "194",
+    "TxnDate": "2025-08-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "195",
+    "TxnDate": "2025-09-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "196",
+    "TxnDate": "2025-10-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "197",
+    "TxnDate": "2025-11-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "198",
+    "TxnDate": "2025-12-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "199",
+    "TxnDate": "2026-01-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "200",
+    "TxnDate": "2026-02-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "201",
+    "TxnDate": "2026-03-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "202",
+    "TxnDate": "2026-04-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "203",
+    "TxnDate": "2026-05-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "204",
+    "TxnDate": "2026-06-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "205",
+    "TxnDate": "2026-07-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "206",
+    "TxnDate": "2026-08-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "207",
+    "TxnDate": "2026-09-08",
+    "TotalAmt": 480,
+    "Line": [
+      {
+        "Amount": 480,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Miro",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "208",
+    "TxnDate": "2025-01-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "209",
+    "TxnDate": "2025-02-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "210",
+    "TxnDate": "2025-03-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "211",
+    "TxnDate": "2025-04-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "212",
+    "TxnDate": "2025-05-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "213",
+    "TxnDate": "2025-06-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "214",
+    "TxnDate": "2025-07-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "215",
+    "TxnDate": "2025-08-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "216",
+    "TxnDate": "2025-09-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "217",
+    "TxnDate": "2025-10-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "218",
+    "TxnDate": "2025-11-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "219",
+    "TxnDate": "2025-12-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "220",
+    "TxnDate": "2026-01-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "221",
+    "TxnDate": "2026-02-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "222",
+    "TxnDate": "2026-03-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "223",
+    "TxnDate": "2026-04-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "224",
+    "TxnDate": "2026-05-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "225",
+    "TxnDate": "2026-06-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "226",
+    "TxnDate": "2026-07-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "227",
+    "TxnDate": "2026-08-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "228",
+    "TxnDate": "2026-09-15",
+    "TotalAmt": 99,
+    "Line": [
+      {
+        "Amount": 99,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Hotjar Ltd",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "253",
+    "TxnDate": "2024-10-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "254",
+    "TxnDate": "2024-11-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "255",
+    "TxnDate": "2024-12-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "256",
+    "TxnDate": "2025-01-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "257",
+    "TxnDate": "2025-02-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "258",
+    "TxnDate": "2025-03-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "259",
+    "TxnDate": "2025-04-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "260",
+    "TxnDate": "2025-05-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "261",
+    "TxnDate": "2025-06-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "262",
+    "TxnDate": "2025-07-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "263",
+    "TxnDate": "2025-08-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "264",
+    "TxnDate": "2025-09-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "265",
+    "TxnDate": "2025-10-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "266",
+    "TxnDate": "2025-11-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "267",
+    "TxnDate": "2025-12-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "268",
+    "TxnDate": "2026-01-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "269",
+    "TxnDate": "2026-02-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "270",
+    "TxnDate": "2026-03-09",
+    "TotalAmt": 740,
+    "Line": [
+      {
+        "Amount": 740,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Intercom R&D Unlimited",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "271",
+    "TxnDate": "2024-10-26",
+    "TotalAmt": 7200,
+    "Line": [
+      {
+        "Amount": 7200,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Figma, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "272",
+    "TxnDate": "2025-10-26",
+    "TotalAmt": 9000,
+    "Line": [
+      {
+        "Amount": 9000,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Figma, Inc.",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "275",
+    "TxnDate": "2025-02-22",
+    "TotalAmt": 960,
+    "Line": [
+      {
+        "Amount": 960,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Calendly LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "276",
+    "TxnDate": "2026-02-22",
+    "TotalAmt": 960,
+    "Line": [
+      {
+        "Amount": 960,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Calendly LLC",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "277",
+    "TxnDate": "2026-03-14",
+    "TotalAmt": 812.4,
+    "Line": [
+      {
+        "Amount": 812.4,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Travel"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Delta Air Lines",
+      "type": "Vendor"
+    },
+    "PrivateNote": "Customer visit, Chicago"
+  },
+  {
+    "Id": "278",
+    "TxnDate": "2026-08-02",
+    "TotalAmt": 1290.1,
+    "Line": [
+      {
+        "Amount": 1290.1,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Travel"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Delta Air Lines",
+      "type": "Vendor"
+    },
+    "PrivateNote": "Offsite flights"
+  },
+  {
+    "Id": "279",
+    "TxnDate": "2026-05-21",
+    "TotalAmt": 4180,
+    "Line": [
+      {
+        "Amount": 4180,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Office Equipment"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Herman Miller",
+      "type": "Vendor"
+    },
+    "PrivateNote": "Six chairs for the new office"
+  },
+  {
+    "Id": "280",
+    "TxnDate": "2026-07-11",
+    "TotalAmt": 2390,
+    "Line": [
+      {
+        "Amount": 2390,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Conferences"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Web Summit",
+      "type": "Vendor"
+    }
+  },
+  {
+    "Id": "281",
+    "TxnDate": "2026-09-29",
+    "TotalAmt": 63.18,
+    "Line": [
+      {
+        "Amount": 63.18,
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Office Supplies"
+          }
+        }
+      }
+    ],
+    "PaymentType": "CreditCard",
+    "EntityRef": {
+      "name": "Staples",
+      "type": "Vendor"
+    }
+  }
+]

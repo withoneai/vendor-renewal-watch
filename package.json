@@ -1,0 +1,27 @@
+{
+  "name": "vendor-renewal-watch",
+  "version": "1.0.0",
+  "description": "An AI agent for recurring vendor spend: find every subscription in QuickBooks, work out when it renews and what it costs, check it against your Notion tool inventory, and have Claude call out the ones nobody uses before the renewal date. Built on One.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/check.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@withone/sdk": "^0.4.0",
+    "dotenv": "^16.4.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}
